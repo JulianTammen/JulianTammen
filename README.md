@@ -10,4 +10,4 @@
 
 <br/>
 
-<img alt = "top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=transparent&title_color=ffffff&text_color=ffffff">
+<img alt = "top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianTammen&layout=donut&theme=transparent&title_color=ffffff&text_color=ffffff">
