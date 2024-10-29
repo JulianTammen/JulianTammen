@@ -3,11 +3,6 @@
 ## Skills
 <img alt = "skills" src="https://skillicons.dev/icons?i=cs,dart,unity,flutter&theme=dark">
 
-<br/>
-<br/>
-
-
-
 ## Stats
 
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=JulianTammen&show_icons=true&theme=transparent&title_color=ffffff&icon_color=fff691&text_color=d4d4d4"/>
